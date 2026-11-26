@@ -1,0 +1,9 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+GiacControl = "816cd39c-019d-44d0-b5a4-bcf444e6046d"
+
+[sources]
+GiacControl = {path = ".."}
+
+[compat]
+Documenter = "1"
